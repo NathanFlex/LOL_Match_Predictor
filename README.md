@@ -2,4 +2,4 @@ This project aims to predict the outcome of a league of legends match given it's
 
 All the recorded matches have been retrieved through [Porofessor](www.porofessor.gg) while respecting robots.txt. I personally really enjoy playing the champion [Leona](https://www.leagueoflegends.com/en-us/champions/leona), so the dataset currently includes every ranked match during Season 3 2025 that I played support as Leona.  
 
-A simple neural network created in PyTorch trained over 1000 epochs was used for this purpose
+A neural network created in PyTorch trained over 1000 epochs was used for this purpose
